@@ -1,8 +1,6 @@
 <div align="center">
 
-### Velune Keyboard
-
-<b>
+<br><br>
 
 <img width="2828" height="1594" alt="Screenshot 2026-06-18 at 10 58 38 AM" src="https://github.com/user-attachments/assets/d759c83b-9f3c-493e-9bda-3939809fdfde" />
 
