@@ -2,7 +2,7 @@
 
 <br><br>
 
-<img width="2828" height="1594" alt="Screenshot 2026-06-18 at 10 58 38 AM" src="https://github.com/user-attachments/assets/d759c83b-9f3c-493e-9bda-3939809fdfde" />
+<img width="3420" height="1856" alt="keyboard pic" src="https://github.com/user-attachments/assets/381e84e2-f91b-4151-a1c1-cee8501fadc8" />
 
 <br><br>
 
@@ -52,7 +52,7 @@
 
 <br>
 
-<img width="1400" alt="PCB Schematic" src="SCHEMATIC_IMAGE_HERE" />
+<img width="2608" height="1840" alt="Screenshot 2026-06-18 at 11 05 58 AM" src="https://github.com/user-attachments/assets/fa7e4efa-9863-457c-b4d8-5ef54b1c65c5" />
 
 <br><br>
 
@@ -66,7 +66,7 @@
 
 <br>
 
-<img width="1400" alt="Top Layer" src="TOP_LAYER_IMAGE_HERE" />
+<img width="2846" height="1840" alt="Screenshot 2026-06-18 at 11 06 33 AM" src="https://github.com/user-attachments/assets/8404385d-05e6-418e-8dff-80eeabade8e7" />
 
 <br><br>
 
@@ -74,7 +74,7 @@
 
 <br>
 
-<img width="1400" alt="Bottom Layer" src="BOTTOM_LAYER_IMAGE_HERE" />
+<img width="2846" height="1840" alt="Screenshot 2026-06-18 at 11 06 48 AM" src="https://github.com/user-attachments/assets/420a2408-54c7-496f-945f-b247afb7bcf3" />
 
 <br><br>
 
@@ -82,11 +82,11 @@
 
 <br>
 
-<img width="1400" alt="3D View Front" src="PCB_3D_FRONT_IMAGE_HERE" />
+<img width="2846" height="1840" alt="Screenshot 2026-06-18 at 11 07 26 AM" src="https://github.com/user-attachments/assets/b64de357-e288-4b45-bd0b-65afa027fc86" />
 
 <br><br>
 
-<img width="1400" alt="3D View Back" src="PCB_3D_BACK_IMAGE_HERE" />
+<img width="2846" height="1840" alt="Screenshot 2026-06-18 at 11 07 30 AM" src="https://github.com/user-attachments/assets/7d334890-a71d-4537-9937-5761b61938f0" />
 
 </div>
 
@@ -102,15 +102,25 @@
 
 <br>
 
-<img width="1400" alt="Top Case" src="KEYBOARD_RENDER_IMAGE_HERE" />
+<img width="2828" height="1594" alt="Screenshot 2026-06-18 at 11 04 38 AM" src="https://github.com/user-attachments/assets/fb5ac519-a1fd-42f8-884f-a3f5bc99b73d" />
 
 <br><br>
+
+**Plate**
+
+<br>
+
+<img width="2828" height="1594" alt="Screenshot 2026-06-18 at 11 05 32 AM" src="https://github.com/user-attachments/assets/843dbd27-a50f-4f9b-ad6c-34cc102e00bd" />
+
+
+<br><br>
+
 
 **Bottom Case**
 
 <br>
 
-<img width="1400" alt="Bottom Case" src="BOTTOM_CASE_IMAGE_HERE" />
+<img width="2828" height="1594" alt="Screenshot 2026-06-18 at 11 04 49 AM" src="https://github.com/user-attachments/assets/3b5733ef-7954-478a-b723-0bfce2b6cf08" />
 
 </div>
 
@@ -122,8 +132,7 @@
 
 <div align="center">
 
-<img width="1400" alt="Final Assembly" src="KEYBOARD_RENDER_IMAGE_HERE" />
-
+<img width="2828" height="1594" alt="Screenshot 2026-06-18 at 11 05 11 AM" src="https://github.com/user-attachments/assets/b3f9192f-0f6f-46ac-bddb-24af8429c746" />
 </div>
 
 <br><br>
