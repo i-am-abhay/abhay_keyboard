@@ -8,7 +8,7 @@
 
 <br><br>
 
-| ⚡ RASPBERRY PI PICO | ⌨️ 75 KEYS | ✨ PER-KEY RGB LIGHTING | 📺 .91" OLED SCREEN | 🔌 USB-C |
+| ⚡ Raspberry Pi Pico | ⌨️ 75 Keys | ✨ Underlit Keys | 📺 .91" OLED Screen | 🔌 USB-C |
 |:--:|:--:|:--:|:--:|:--:|
 
 </div>
