@@ -2,8 +2,7 @@
 
 <br><br>
 
-<img width="3420" height="1856" alt="keyboard pic" src="https://github.com/user-attachments/assets/381e84e2-f91b-4151-a1c1-cee8501fadc8" />
-
+<img width="3260" height="1856" alt="ss" src="https://github.com/user-attachments/assets/267e969e-1669-4fa0-8e1f-1edd3eb1dae9" />
 <br><br>
 
 | ⚡ Raspberry Pi Pico | ⌨️ 75 Keys | ✨ Underlit Keys | 📺 .91" OLED Screen | 🔌 USB-C |
