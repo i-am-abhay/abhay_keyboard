@@ -5,8 +5,8 @@
 <img width="3260" height="1856" alt="ss" src="https://github.com/user-attachments/assets/267e969e-1669-4fa0-8e1f-1edd3eb1dae9" />
 <br><br>
 
-| ⚡ Raspberry Pi Pico | ⌨️ 75 Keys | ✨ Underlit Keys | 📺 .91" OLED Screen | 🔌 USB-C |
-|:--:|:--:|:--:|:--:|:--:|
+| ⚡ Raspberry Pi Pico | ⌨️ 75 Keys | ✨ Underlit Keys | 📺 0.91" OLED Screen | 🔌 USB-C |
+|:------------------:|:----------:|:----------------:|:-------------------:|:---------:|
 
 </div>
 
