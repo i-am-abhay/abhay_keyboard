@@ -1,18 +1,10 @@
 <div align="center">
 
-<br><br>
+<br><br><br>
 
-<img width="3260" height="1856" alt="ss" src="https://github.com/user-attachments/assets/21ea9f01-6436-4e3e-8bfb-06dc1f7412c2" />
+<img width="1105" height="570" alt="Screenshot 2026-07-06 at 2 59 05 PM" src="https://github.com/user-attachments/assets/0b38033b-66ac-4538-95b6-0cc0f01af639" />
 
-
-<br><br>
-
-| ⚡ Raspberry Pi Pico | ⌨️ 75 Keys | ✨ RGB Lighting | 📺 .91" OLED Screen | 🔌 USB-C |
-|:------------------:|:----------:|:----------------:|:-------------------:|:---------:|
-
-</div>
-
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <div align="center">
 
