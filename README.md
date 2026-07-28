@@ -34,9 +34,9 @@
 |  1x | [SSD1306 128×32 OLED Display](https://www.aliexpress.com/item/2251832623890853.html)                | $1.52  |
 |  4x | [M3 Machine Screws](https://www.aliexpress.com/item/2255800784679048.html)                          | $2.45  |
 | 78x | [Mechanical Switches](https://www.aliexpress.com/item/3256808352947766.html)                        | $22.79 |
-|  1x | [Raspberry Pi Pico RP2040](https://www.aliexpress.com/item/3256801595153884.html)                   | $7.28  |
+|  1x | [Raspberry Pi Pico RP2040](https://www.aliexpress.com/item/3256806652932348.html)                   | $7.28  |
 |  1x | [Keycap Set](https://www.aliexpress.com/item/3256809986262551.html)                                 | $15.51 |
-|  1x | [Keyboard Stabilizer Set](https://www.aliexpress.com/item/3256806652932348.html)                    | $3.71  |
+|  1x | [Keyboard Stabilizer Set](https://www.aliexpress.com/item/3256801595153884.html)                    | $3.71  |
 |  4x | [M2.5 Self-Tapping Screws](https://www.aliexpress.com/item/2255800784679048.html)                   | $2.61  |
 |  4x | [M3 Heat-Set Inserts](https://www.aliexpress.com/item/3256808480358197.html)                        | $2.15  |
 |  1x | [GPIO Header Set (Raspberry Pi Pico)](https://www.aliexpress.com/item/3256808268220851.html) | $2.19  |
