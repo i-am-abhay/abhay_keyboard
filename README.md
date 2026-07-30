@@ -31,9 +31,9 @@
 | 78x | [SOD-123 Diodes](https://www.aliexpress.com/item/3256805388348871.html)                             | $1.53  |
 | 79x | [1206 Capacitors (104K 50V)](https://www.aliexpress.com/item/3256807177349573.html)                 | $1.46  |
 |  1x | [74AHCT125 Bus Buffer](https://www.aliexpress.com/item/3256807066238250.html)                       | $1.66  |
-| 78x | [SK6812 MINI-E RGB LEDS](https://www.aliexpress.us/item/3256805007401420.html)                      | $6.48  |
+| 78x | [SK6812 MINI-E RGB LEDs](https://www.aliexpress.us/item/3256805007401420.html)                      | $6.48  |
 |  1x | [SSD1306 128×32 OLED Display](https://www.aliexpress.com/item/2251832623890853.html)                | $1.52  |
-|  4x | [6mm M3 Machine Screws](https://www.aliexpress.com/item/2255800784679048.html)                          | $2.45  |
+|  4x | [6mm M3 Machine Screws](https://www.aliexpress.com/item/2255800784679048.html)                      | $2.45  |
 | 78x | [Mechanical Switches](https://www.aliexpress.com/item/3256808352947766.html)                        | $22.79 |
 |  1x | [Raspberry Pi Pico RP2040](https://www.aliexpress.com/item/3256806652932348.html)                   | $7.28  |
 |  1x | [Keycap Set](https://www.aliexpress.com/item/3256809986262551.html)                                 | $15.51 |
@@ -41,8 +41,8 @@
 |  4x | [M2.5 Self-Tapping Screws](https://www.aliexpress.com/item/2255800784679048.html)                   | $2.61  |
 |  4x | [M3 Heat-Set Inserts](https://www.aliexpress.com/item/3256808480358197.html)                        | $2.15  |
 |  1x | [GPIO Header Set (Raspberry Pi Pico)](https://www.aliexpress.com/item/3256808268220851.html)        | $2.19  |
-|  1x | [Custom PCB](https://jlcpcb.com/)                                                                   |        |
-|  1x | 3D Printed Case (Printing Legion)                                                                   |        |
+|  1x | Custom PCB (Sponsored by [PCBWay](https://www.pcbway.com/))                                        | Sponsored |
+|  1x | 3D Printed Case (Printing Legion)                                                                   | $0.00  |                           
 
 <br>
 
