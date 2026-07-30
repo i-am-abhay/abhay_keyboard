@@ -46,11 +46,11 @@
 
 <br>
 
-**Parts Subtotal: $76.48** 
+**Parts Subtotal:** $76.48 
 
-**Fees | Tax: $6.34**
+**Fees  |  Tax:** $6.34
 
-**Grand Total: $82.82**
+**Grand Total:** $82.82
 
 
 <br><br><br><br><br>
