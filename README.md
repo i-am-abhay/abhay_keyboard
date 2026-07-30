@@ -33,7 +33,7 @@
 |  1x | [74AHCT125 Bus Buffer](https://www.aliexpress.com/item/3256807066238250.html)                       | $1.66  |
 | 78x | [SK6812 MINI-E RGB LEDS](https://www.aliexpress.us/item/3256805007401420.html)                      | $6.48  |
 |  1x | [SSD1306 128×32 OLED Display](https://www.aliexpress.com/item/2251832623890853.html)                | $1.52  |
-|  4x | [M3 Machine Screws](https://www.aliexpress.com/item/2255800784679048.html)                          | $2.45  |
+|  4x | [6mm M3 Machine Screws](https://www.aliexpress.com/item/2255800784679048.html)                          | $2.45  |
 | 78x | [Mechanical Switches](https://www.aliexpress.com/item/3256808352947766.html)                        | $22.79 |
 |  1x | [Raspberry Pi Pico RP2040](https://www.aliexpress.com/item/3256806652932348.html)                   | $7.28  |
 |  1x | [Keycap Set](https://www.aliexpress.com/item/3256809986262551.html)                                 | $15.51 |
