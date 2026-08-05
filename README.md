@@ -41,7 +41,7 @@
 |  4x | [M2.5 Self-Tapping Screws](https://www.aliexpress.com/item/2255800784679048.html)                   | $2.61  |
 |  4x | [M3 Heat-Set Inserts](https://www.aliexpress.com/item/3256808480358197.html)                        | $2.15  |
 |  1x | [GPIO Header Set (Raspberry Pi Pico)](https://www.aliexpress.com/item/3256808268220851.html)        | $2.19  |
-|  1x | Custom PCB (Sponsored by [PCBWay](https://www.pcbway.com/))                                         |        |
+|  1x | Custom PCB                                                                                          |        |
 |  1x | 3D Printed Case (Printing Legion)                                                                   | $0.00  |                           
 
 <br>
