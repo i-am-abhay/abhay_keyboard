@@ -56,7 +56,9 @@
 
 **Fees  |  Tax:** $6.34
 
-**Grand Total:** $82.82
+**PCBWAY Shipping:** $60
+
+**Grand Total:** $142.82
 
 
 <br><br><br><br><br>
