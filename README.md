@@ -18,6 +18,34 @@
 
 <img width="320" height="320" alt="pcbway-logo-png_seeklogo-615986" src="https://github.com/user-attachments/assets/d5028e83-6861-4933-bfea-cf207dcabea6" />
 
+<br><br><br>
+
+## PCBWay Sponsorship
+
+<div align="left">
+  
+A massive thank you to **[PCBWay](https://www.pcbway.com/)** for sponsoring the manufacturing of the **abhay_keyboard PCB** and being a part of this journey.
+
+When I first started this project, it was just an idea sitting in my head, the goal of designing my own mechanical keyboard completely from scratch. I wanted to experience every part of the process: drawing the schematic, designing the PCB, writing the firmware, creating the hardware, and eventually holding something I built myself.
+
+After countless hours in KiCad, debugging, redesigning, and improving the design, the project reached a point where it was ready to leave my computer and become a real physical device. That is where PCBWay made a huge difference.
+
+With PCBWay's support, my PCB design was able to become a real prototype that I can assemble, test, and continue improving. Having a professionally manufactured board for something I designed myself is an incredible milestone and a reminder of why I love building hardware.
+
+This sponsorship is not just about getting PCBs manufactured. It is about making it possible for creators like me to learn through building and share that experience with others. I will be documenting the entire process, from PCB fabrication and assembly to testing the final keyboard, so others can follow along and hopefully be inspired to start their own projects.
+
+### Learn More About PCBWay
+
+* 🌐 **PCB Manufacturing:** [PCBWay](https://www.pcbway.com/)
+* 🛠️ **PCBWay Community:** [PCBWay Project Community](https://www.pcbway.com/project/)
+
+I am genuinely thankful to the PCBWay team for supporting student creators and giving me the opportunity to turn an idea into a real piece of hardware. Your support helped make **abhay_keyboard** something more than just a design file. It became a project I can build, share, and continue improving.
+
+Thank you, PCBWay, for believing in this project and helping me bring it to life.
+
+
+
+
 
 
 </div>
