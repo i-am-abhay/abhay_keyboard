@@ -34,7 +34,7 @@ With PCBWay's support, my PCB design was able to become a real prototype that I 
 
 This sponsorship is not just about getting PCBs manufactured. It is about making it possible for creators like me to learn through building and share that experience with others. I will be documenting the entire process, from PCB fabrication and assembly to testing the final keyboard, so others can follow along and hopefully be inspired to start their own projects.
 
-### Learn More About PCBWay
+### Learn More About PCBWay!
 
 * 🌐 **PCB Manufacturing:** [PCBWay](https://www.pcbway.com/)
 * 🛠️ **PCBWay Community:** [PCBWay Project Community](https://www.pcbway.com/project/)
