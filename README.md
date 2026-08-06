@@ -24,7 +24,7 @@
 
 <div align="left">
   
-A massive thank you to **[PCBWay](https://www.pcbway.com/)** for sponsoring the manufacturing of the **abhay_keyboard PCB** and being a part of this journey.
+A massive thank you to **[PCBWay](https://www.pcbway.com/)** for sponsoring the manufacturing of the **Velune Keyboard** and being a part of this journey!
 
 When I first started this project, it was just an idea sitting in my head, the goal of designing my own mechanical keyboard completely from scratch. I wanted to experience every part of the process: drawing the schematic, designing the PCB, writing the firmware, creating the hardware, and eventually holding something I built myself.
 
