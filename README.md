@@ -6,8 +6,6 @@
 
 <br><br><br><br><br><br>
 
-<br><br><br><br><br>
-
 <div align="left">
 
 ### About the Project
@@ -24,7 +22,7 @@ I wanted to see if I could build a full-size keyboard completely from scratch in
 
 It also gave me a chance to work on things I hadn't done at this scale before, like designing a large PCB, routing a keyboard matrix, writing firmware, and making a case that all fit together properly. In the end, I wanted to turn something I use every day into a project I could design myself.
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div align="center">
 
