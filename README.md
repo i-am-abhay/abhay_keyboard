@@ -28,7 +28,7 @@ It also gave me a chance to work on things I hadn't done at this scale before, l
 
 ### Sponsored By
 
-<br>
+<br><br>
 
 <img width="320" alt="Hack Club" src="https://github.com/user-attachments/assets/8bc76b1a-8842-4f86-be09-2e3fcd437c8f" />
 
