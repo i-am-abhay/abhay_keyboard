@@ -44,13 +44,9 @@ I am genuinely thankful to the PCBWay team for supporting student creators and g
 Thank you, PCBWay, for believing in this project and helping me bring it to life.
 
 
-
-
-
-
 </div>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <div align="center">
 
