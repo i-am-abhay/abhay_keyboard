@@ -6,6 +6,26 @@
 
 <br><br><br><br><br><br>
 
+<br><br><br><br><br>
+
+<div align="left">
+
+### About the Project
+
+This project is a custom mechanical keyboard that I designed and built from scratch. It features a custom PCB, mechanical switches, RGB lighting, and a 128×32 OLED display. The keyboard runs custom firmware that handles the key matrix, USB input, OLED, and lighting.
+
+I designed the PCB and case myself, then assembled the hardware and wrote the firmware to bring everything together. The goal was to make a keyboard that I could actually use every day while having complete control over both the hardware and software.
+
+<br><br>
+
+### Why I Built It
+
+I wanted to see if I could build a full-size keyboard completely from scratch instead of buying one. I had already worked on smaller hardware projects, so this felt like a good way to take things further and build something I would actually use every day.
+
+It also gave me a chance to work on things I hadn't done at this scale before, like designing a large PCB, routing a keyboard matrix, writing firmware, and making a case that all fit together properly. In the end, I wanted to turn something I use every day into a project I could design myself.
+
+<br><br><br><br><br>
+
 <div align="center">
 
 ### Sponsored By
@@ -83,24 +103,6 @@ Thank you, PCBWay, for believing in this project and helping me bring it to life
 **PCBWAY Shipping:** $60
 
 **Grand Total:** $142.82
-
-<br><br><br><br><br>
-
-<div align="left">
-
-### About the Project
-
-This project is a custom mechanical keyboard that I designed and built from scratch. It features a custom PCB, mechanical switches, RGB lighting, and a 128×32 OLED display. The keyboard runs custom firmware that handles the key matrix, USB input, OLED, and lighting.
-
-I designed the PCB and case myself, then assembled the hardware and wrote the firmware to bring everything together. The goal was to make a keyboard that I could actually use every day while having complete control over both the hardware and software.
-
-<br><br>
-
-### Why I Built It
-
-I wanted to see if I could build a full-size keyboard completely from scratch instead of buying one. I had already worked on smaller hardware projects, so this felt like a good way to take things further and build something I would actually use every day.
-
-It also gave me a chance to work on things I hadn't done at this scale before, like designing a large PCB, routing a keyboard matrix, writing firmware, and making a case that all fit together properly. In the end, I wanted to turn something I use every day into a project I could design myself.
 
 <br><br><br><br><br>
 
